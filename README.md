@@ -12,12 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-### Hi there,Struggling software engineers👋,I'm Zhengran Chou.
-
-- ## Hi there 👋
+- ## Hi there,Struggling software engineers👋,I'm Zhengran Chou. 👋
 
   ### About Me
   - 🎓 I'm a Software Engineering graduate from Anhui University of Information Engineering.
@@ -29,7 +24,7 @@ Here are some ideas to get you started:
   - 📫 How to reach me: 319102020329.aiit@vip.163.com
 
   ### Fun Facts
-  - ⚡ Fun fact: I love coding while listening to lo-fi music.
+  - ⚡ Fun fact: I love coding while listening to music.
 
   ### Connect with Me
   - [cnblogs](https://www.cnblogs.com/itcq1024)
@@ -40,18 +35,11 @@ Here are some ideas to get you started:
   ### GitHub Stats
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITCQ1024&show_icons=true&bg_color=00000000)
 
-  ### Top Languages
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCQ1024&layout=compact)
-  
-
-
   ### Upcoming Goals
   - 🚀 Learn more about microservices architecture.
   - 🚀 Build a full-stack application with Java, Spring Boot, and React.
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/ITCQ1024/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
-
 
 ### My Skill Set
 
