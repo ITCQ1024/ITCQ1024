@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   - [CSDN](https://blog.csdn.net/weixin_46059682?type=blog)
 
   ### GitHub Stats
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ITCQ1024&show_icons=true&bg_color=00000000)
 
   ### Top Languages
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCQ1024&layout=compact)
