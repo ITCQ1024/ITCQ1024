@@ -41,7 +41,9 @@ Here are some ideas to get you started:
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITCQ1024&show_icons=true&theme=radical)
 
   ### Top Languages
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCQ1024&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCQ1024&layout=compact)
+  
+ [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ITCQ1024)](https://github.com/anuraghazra/github-readme-stats)
 
   ### Upcoming Goals
   - 🚀 Learn more about microservices architecture.
