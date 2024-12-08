@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ITCQ1024/ITCQ1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-### Hi there 👋,I'm Zhengran Chou.
+### Hi there,Struggling software engineers👋,I'm Zhengran Chou.
 
 - ## Hi there 👋
 
