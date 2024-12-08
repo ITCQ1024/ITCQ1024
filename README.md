@@ -38,12 +38,12 @@ Here are some ideas to get you started:
   - [CSDN](https://blog.csdn.net/weixin_46059682?type=blog)
 
   ### GitHub Stats
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ITCQ1024&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
   ### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCQ1024&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITCQ1024&layout=compact)
   
- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ITCQ1024)](https://github.com/anuraghazra/github-readme-stats)
+
 
   ### Upcoming Goals
   - 🚀 Learn more about microservices architecture.
